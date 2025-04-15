@@ -95,3 +95,5 @@
 ## 版权信息
 
 © 2025 一模型Ai (https://jmlovestore.com) - 不会开发软件吗 🙂 Ai会哦
+
+![WeChat Screenshot_20250414231046](https://github.com/user-attachments/assets/3380b417-4c57-4ef8-9eda-ae08e14c0655)
